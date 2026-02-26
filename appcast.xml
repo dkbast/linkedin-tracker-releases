@@ -29,5 +29,18 @@
         length="22057375"
         type="application/octet-stream" />
     </item>
+      <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Do., 26 Feb. 2026 13:51:54 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/dkbast/linkedin-tracker-releases/releases/download/v1.0.2/TrackAtHome-1.0.2.dmg"
+        sparkle:edSignature="DlIdHtSfk7SDLTBA8OF9WuyN/UejKW769i3Cd0gV+HUOPj/7hrDyUdQv3nmBaDbE+/7c8GUtDXAQMu7hel/lCA=="
+        sparkle:os="macos"
+        length="22086327"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
